@@ -1,7 +1,4 @@
-Docker를 이용한 solr 게시판 생성
-
-
-# Docker를 이용한 solr 이용 
+# Docker를 이용한 solr 게시판 생성
 
 참고사이트
 https://github.com/docker-solr/docker-solr
